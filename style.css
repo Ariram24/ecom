@@ -344,6 +344,11 @@ body
    margin-left:30px;
    position:absolute;
 }
+.contact button
+    {
+        width:50%;
+        height:37px;
+    }
 .inner
 {
    padding:100px;
