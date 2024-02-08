@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://ariram24.github.io/ecom/)
+- 🔭 I’m currently working on [https://ariram24.github.io/ecom/](https://ariram24.github.io/ecom/)
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learnin **Back-end**
 
-- 👯 I’m looking to collaborate on [Book Store](https://ariram24.github.io/bookstore/)
-
-- 📫 How to reach me **mrariram@gmail.com**
+- 👯 I’m looking to collaborate on [https://ariram24.github.io/bookstore/](https://ariram24.github.io/bookstore/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
