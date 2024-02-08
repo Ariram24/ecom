@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [https://ariram24.github.io/ecom/](https://ariram24.github.io/ecom/)
-
-- 🌱 I’m currently learnin **Back-end**
-
-- 👯 I’m looking to collaborate on [https://ariram24.github.io/bookstore/](https://ariram24.github.io/bookstore/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ariram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariram" height="30" width="40" /></a>
@@ -27,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariram24&show_icons=true&locale=en" alt="ariram24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariram24&" alt="ariram24" /></p>
+
